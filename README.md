@@ -1,6 +1,7 @@
 # hello-world
 
-My name is Makster!
-I write computer programs for a living.
-When I am not programming, I enjoy producing my own music.
-My other interests include cooking, traveling, and working out.
+Greetings!
+
+My name is Blue, and I love writing computer programs!
+My other interests include producing music, jogging, and cooking.
+I have been doing more of the latter recently and I'm enjoying it!
